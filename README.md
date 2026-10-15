@@ -16,7 +16,7 @@ An interactive emoji reaction app built using HTML, CSS, and JavaScript as part 
 
 ## Live Demo
 
-[Click here to view the project](YOUR_LIVE_DEMO_LINK)
+[Click here to view the project](https://shaiksajida124.github.io/Emoji-Reacter/)
 
 ## Acknowledgements
 
