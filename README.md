@@ -14,6 +14,10 @@ An interactive emoji reaction app built using HTML, CSS, and JavaScript as part 
 - DOM manipulation
 - Handling user interactions
 
+## Live Demo
+
+[Click here to view the project](YOUR_LIVE_DEMO_LINK)
+
 ## Acknowledgements
 
 Built as part of the [freeCodeCamp](https://www.freecodecamp.org/) curriculum.
